@@ -1,0 +1,15 @@
+.login {
+    border: 1px solid black;
+    width: 40%;
+    padding: 20px;
+}
+.radio-group { width: 95%; float: left; margin-bottom: 10px; }
+label { float: left; width: 15%;}
+input[type=radio] { float: left; }
+input[type=text],
+input[type=password] { 
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    box-sizing: border-box;
+}

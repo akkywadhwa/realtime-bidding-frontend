@@ -1,0 +1,24 @@
+.contracts {
+  width:70%;
+  float: left;
+}
+.contract-details {
+  margin-left: 10px;
+  width: 25%;
+  float: left;
+}
+.contract-details > .heading {
+  font-size: 20px;
+}
+.show {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: antiquewhite;
+  position: absolute;
+  top: 56px;
+  right: 50px;
+}
+.hide {
+  display: none;
+}

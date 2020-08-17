@@ -1,0 +1,22 @@
+.createForm {
+    margin-left: 10px;
+    width: 25%;
+    border: 1px solid #000000;
+    padding: 20px;
+    float: left;
+}
+.createForm > .formControl {
+    width: 100%;
+}
+.contract-label { display: block; width: 90%; }
+input[type=text],
+input[type=number],
+input[type=datetime-local] {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    box-sizing: border-box;
+}
+.display {
+    display: block;
+}
